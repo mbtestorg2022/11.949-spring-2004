@@ -10,18 +10,196 @@ The calendar is divided into three parts:
 *   Part II: Designing Cities In Local, National, and Global Context (Weeks 5 through 9)
 *   Part III: City Design, Social Justice, and The Politics of Change (Weeks 10 through 14)
 
-| WEEK # | TITLES | TOPICS |
-| --- | --- | --- |
-| 1 | The City as a Social, Legal, and Political Concept | Speaker: Gerald Frug, Harvard Law School  {{< br >}}  {{< br >}}Readings on forms of Citizenship and Political Power as Product of the City-State Nexus |
-| 2 | The Nature and Historical Origins of Cities | Readings on Political, Social, and Economic Underpinnings of Urban Growth |
-| 3 | The City as Nation (and vice-versa) | Speaker: Larry Vale, MIT  {{< br >}}  {{< br >}}Readings on Capital Cities as Seat and Symbol of National Identity |
-| 4 | The City-Nation Nexus in Global Context | Speaker: Neil Brenner, New York University  {{< br >}}  {{< br >}}Readings on Cities, Capitalist Development, and State Formation in Global Context |
-| 5 | Urban Utopias | Speaker: David Harvey, CUNY Graduate Center, New York  {{< br >}}  {{< br >}}Readings on Urban Utopias in Theory and Practice |
-| 6 | Cities in National Consolidation and Global Expansion | Speaker: Sumantra Bose, London School of Economics  {{< br >}}  {{< br >}}Readings on the Design of Cities (Rome and Berlin) with National and Imperial Aims |
-| 7 | Cities and Nationalism | Speaker: Rogers Brubaker, UCLA and Central European University  {{< br >}}  {{< br >}}Readings on the Relationships between Politics, Urban Life, and Physical Space |
-| 8 | Rebuilding Nations by Reconstructing Cities | Speaker: Jo Beall, London School of Economics  {{< br >}}  {{< br >}}Readings on Cities (Berlin, Johannesburg, Mostar) Undertaking Urban and National Rebuilding in Post-Conflict Situations |
-| 9 | Cities as Spaces for Democracy | Speaker: Richard Sennett, London School of Economics  {{< br >}}  {{< br >}}Readings on the Democratic Promise of the City and its Design |
-| 10 | Cities and World Peace | Readings on the Location and Design of the UN |
-| 11 | Scales of Agency in a Global World: Individuals, Cities, Nations, and Beyond | Speaker: Jonathan Glover, Kings College, London  {{< br >}}  {{< br >}}Readings on the Various Scales and Locations of Identity and Power in a Globalizing world |
-| 12 | Cities and Representation in a Global Age | Speaker: Leslie Sklair, London School of Economics  {{< br >}}  {{< br >}}Architectural, Social, and Spatial Correlates of a Post-national Geography |
-| 13 | Considering Jerusalem | Speaker: Bruce Mazlish, MIT  {{< br >}}  {{< br >}}Student Presentations
+{{< tableopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TITLES
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+The City as a Social, Legal, and Political Concept
+{{< tdclose >}}
+{{< tdopen >}}
+Speaker: Gerald Frug, Harvard Law School  
+  
+Readings on forms of Citizenship and Political Power as Product of the City-State Nexus
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The Nature and Historical Origins of Cities
+{{< tdclose >}}
+{{< tdopen >}}
+Readings on Political, Social, and Economic Underpinnings of Urban Growth
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The City as Nation (and vice-versa)
+{{< tdclose >}}
+{{< tdopen >}}
+Speaker: Larry Vale, MIT  
+  
+Readings on Capital Cities as Seat and Symbol of National Identity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The City-Nation Nexus in Global Context
+{{< tdclose >}}
+{{< tdopen >}}
+Speaker: Neil Brenner, New York University  
+  
+Readings on Cities, Capitalist Development, and State Formation in Global Context
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Urban Utopias
+{{< tdclose >}}
+{{< tdopen >}}
+Speaker: David Harvey, CUNY Graduate Center, New York  
+  
+Readings on Urban Utopias in Theory and Practice
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Cities in National Consolidation and Global Expansion
+{{< tdclose >}}
+{{< tdopen >}}
+Speaker: Sumantra Bose, London School of Economics  
+  
+Readings on the Design of Cities (Rome and Berlin) with National and Imperial Aims
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Cities and Nationalism
+{{< tdclose >}}
+{{< tdopen >}}
+Speaker: Rogers Brubaker, UCLA and Central European University  
+  
+Readings on the Relationships between Politics, Urban Life, and Physical Space
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Rebuilding Nations by Reconstructing Cities
+{{< tdclose >}}
+{{< tdopen >}}
+Speaker: Jo Beall, London School of Economics  
+  
+Readings on Cities (Berlin, Johannesburg, Mostar) Undertaking Urban and National Rebuilding in Post-Conflict Situations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Cities as Spaces for Democracy
+{{< tdclose >}}
+{{< tdopen >}}
+Speaker: Richard Sennett, London School of Economics  
+  
+Readings on the Democratic Promise of the City and its Design
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Cities and World Peace
+{{< tdclose >}}
+{{< tdopen >}}
+Readings on the Location and Design of the UN
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Scales of Agency in a Global World: Individuals, Cities, Nations, and Beyond
+{{< tdclose >}}
+{{< tdopen >}}
+Speaker: Jonathan Glover, Kings College, London  
+  
+Readings on the Various Scales and Locations of Identity and Power in a Globalizing world
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Cities and Representation in a Global Age
+{{< tdclose >}}
+{{< tdopen >}}
+Speaker: Leslie Sklair, London School of Economics  
+  
+Architectural, Social, and Spatial Correlates of a Post-national Geography
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Considering Jerusalem
+{{< tdclose >}}
+{{< tdopen >}}
+Speaker: Bruce Mazlish, MIT  
+  
+Student Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
